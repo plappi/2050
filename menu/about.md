@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About 2050
 ---
 
 
@@ -14,7 +14,7 @@ constraints on the world food production, and the rapidly growing populations an
 
 <details> 
   <summary>Answer</summary>
-   In the 80s. The book is The Economics of Natural Resource Use by John Hartwick and Nancy Olewiler. The book was published in 1986 - back then I was 5 years old. 
+   In the 80s. The book is The Economics of Natural Resource Use by John Hartwick and Nancy Olewiler. It was published in 1986 - back then I was 5 years old. 
 </details>
 
 A similar book published today could well begin with the same text. Except for oil exhaustion. I wonder how a book published in 2050 begins? 
