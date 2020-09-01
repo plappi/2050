@@ -8,7 +8,7 @@ image: montreal2019sourcePixabay-figure.jpg
 ---
 
 I asked my wife the other day if we should have our third child, and the immediate response was "Yeah, sure. But after 
-the birth I'll be on a holiday for a year - so, have fun".
+the birth I'll be on a holiday for a year - so, have fun".git
 Perhaps that's all for the best, as now my annual CO$$_2$$ emissions are, in fact, *negative*. Or at least they would be if I believe
 this [paper](https://iopscience.iop.org/article/10.1088/1748-9326/aa7541/meta): *The climate mitigation gap: education and government recommendations miss the most effective individual actions* by Seth Wynes
 and Kimberly Nicholas. The authors have calculated among other things that one transatlantic flight less implies about 1.5

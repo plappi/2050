@@ -28,7 +28,7 @@ title: Research
 
 **Working papers:**
 
-1. On optimal extraction under asymmetric information over reclamation costs, revise and resubmit, Journal of Economic Dynamics and Control <br/> 
+1. On optimal extraction under asymmetric information over reclamation costs, accepted to Journal of Economic Dynamics and Control <br/> 
 
 2. From cradle to grave? On optimal nuclear waste disposal, with Jussi Lintunen, submitted <br/>
 
@@ -36,7 +36,5 @@ title: Research
 
 4. Lobbying for size and slice of the quota <br/>
 
-**Work in progress:**
 
-* On lobbying, environmental policy and polluting exhaustible resources
 
