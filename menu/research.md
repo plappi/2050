@@ -7,7 +7,7 @@ title: Research
 
 **Published:**
 
-10. On optimal extraction under asymmetric information over reclamation costs, accepted to Journal of Economic Dynamics and Control <br/> 
+10. On optimal extraction under asymmetric information over reclamation costs (2020) Journal of Economic Dynamics and Control [DOI: 10.1016/j.jedc.2020.103987](https://doi.org/10.1016/j.jedc.2020.103987) <br/> 
 
 9. [A model of optimal extraction and site reclamation](https://plappi.github.io/Milo/assets/rehab-wp-Lappi-2018.pdf) (2020) Resource and Energy Economics, 59 [DOI: 10.1016/j.reseneeco.2019.101126](https://doi.org/10.1016/j.reseneeco.2019.101126) <br/>
 
