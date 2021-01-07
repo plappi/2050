@@ -31,7 +31,7 @@ other factors. But what this means is that the policy makers also face similar p
 
 For sure, the designers of the EU ETS have asked 
 the question in the title before making this update to the MSR. One certainly hopes so. Current discussion 
-in Finland on climate policy revolves strongly around the EU ETS, the role of forests and transportation, but the consequences of national and EU-level
+in Finland on climate policy revolves strongly around the EU ETS, forests and transportation, but the consequences of national and EU-level
 climate policies that aim at least-cost solutions are becoming more and more difficult to understand due to everchanging rules and uncertainty.
 
 
