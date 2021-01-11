@@ -9,7 +9,7 @@ title: Research
 
 [MILO](https://www.unive.it/pag/33123/)
 
-**Published:**
+**Published papers:**
 
 10. On optimal extraction under asymmetric information over reclamation costs (2020) Journal of Economic Dynamics and Control [DOI: 10.1016/j.jedc.2020.103987](https://doi.org/10.1016/j.jedc.2020.103987) <br/> 
 
