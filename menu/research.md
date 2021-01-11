@@ -5,6 +5,10 @@ title: Research
 
 [CV](https://plappi.github.io/Milo/assets/CV_Pauli_Lappi2019.pdf)
 
+**Projects:**
+
+[MILO](https://www.unive.it/pag/33123/)
+
 **Published:**
 
 10. On optimal extraction under asymmetric information over reclamation costs (2020) Journal of Economic Dynamics and Control [DOI: 10.1016/j.jedc.2020.103987](https://doi.org/10.1016/j.jedc.2020.103987) <br/> 
