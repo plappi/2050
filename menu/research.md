@@ -7,7 +7,7 @@ title: Research
 
 **Projects:**
 
-[MILO](https://www.unive.it/pag/33123/)
+[MILO (2017-2019)](https://www.unive.it/pag/33123/)
 
 **Published papers:**
 
