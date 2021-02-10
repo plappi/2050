@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-[CV](C:\Users\pauli\homepage\assets\CV_Pauli_Lappi2021)
+[CV](https://plappi.github.io/2050/assets/CV_Pauli_Lappi2021)
 
 **Projects:**
 
