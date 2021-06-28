@@ -7,11 +7,12 @@ title: Research
 
 **Projects:**
 
-[MILO (2017-2019)](https://www.unive.it/pag/33123/)
+[MILO (2017-2019)](https://plappi.github.io/Milo/)
 
 **Published papers:**
+11. Lobbying for size and slice of the quota. International Tax and Public Finance. To appear
 
-10. On optimal extraction under asymmetric information over reclamation costs (2020) Journal of Economic Dynamics and Control [DOI: 10.1016/j.jedc.2020.103987](https://doi.org/10.1016/j.jedc.2020.103987) <br/> 
+10. On optimal extraction under asymmetric information over reclamation costs (2020) Journal of Economic Dynamics and Control, 119 [DOI: 10.1016/j.jedc.2020.103987](https://doi.org/10.1016/j.jedc.2020.103987) <br/> 
 
 9. [A model of optimal extraction and site reclamation](https://plappi.github.io/Milo/assets/rehab-wp-Lappi-2018.pdf) (2020) Resource and Energy Economics, 59 [DOI: 10.1016/j.reseneeco.2019.101126](https://doi.org/10.1016/j.reseneeco.2019.101126) <br/>
 
@@ -32,13 +33,13 @@ title: Research
 1. Optimal fuel-mix in CHP plants under a stochastic permit price: risk-neutrality versus risk-aversion] (2010) Energy Policy, 38:1079-1086 [DOI:10.1016/j.enpol.2009.10.060](https://doi.org/10.1016/j.enpol.2009.10.060) (with Kimmo Ollikka and Markku Ollikainen)<br/>
 
 
-**Working papers:**
+**Working papers and work in progress**
 
 1. From cradle to grave? On optimal nuclear waste disposal, with Jussi Lintunen, submitted <br/>
 
 2. On the choice between price and quantity instrument under endogenous lobby formation <br/>
 
-3. Lobbying for size and slice of the quota <br/>
+3. On optimal clean-up of polluted sites under limited funds <br/>
 
 
 
